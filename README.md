@@ -25,23 +25,32 @@
 
 ---
 
----
-### 📊 GitHub Stats:
 
+
+
+### 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RahmaElsayad89&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahmaElsayad89 />
 </p>
 
+
+
+
 ---
----
+
 ### 📬 Let's Connect:
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rahmaelsayad0"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:rahmaelsaiad0@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rahmaelsayad0">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rahmaelsaiad0@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+
 
 ---
 
