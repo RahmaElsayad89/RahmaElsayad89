@@ -28,7 +28,6 @@
 ---
 ### 📊 GitHub Stats:
 
-### <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30" height="30"/> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RahmaElsayad89&show_icons=true&theme=radical" height="165" />
